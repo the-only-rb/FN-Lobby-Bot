@@ -1,4 +1,5 @@
 @echo off
-title SchuhFN x discord.gg/AtJ2xgzjQY
+title @the_only_rb
 py fortnite.py
 cmd /k
+
